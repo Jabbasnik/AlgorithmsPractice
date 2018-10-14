@@ -1,4 +1,4 @@
-package pl.jackowiak.Mumbling;
+package pl.jackowiak.mumbling;
 
 public class Mumbling {
 

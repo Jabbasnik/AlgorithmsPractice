@@ -1,4 +1,4 @@
-package pl.jackowiak.FindSmallest;
+package pl.jackowiak.findsmallest;
 
 public class FindSmallest {
 

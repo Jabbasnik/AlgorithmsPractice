@@ -1,4 +1,4 @@
-package pl.jackowiak.Isogram;
+package pl.jackowiak.isogram;
 
 import java.util.ArrayList;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package pl.jackowiak.TwoToOne;
+package pl.jackowiak.twotoone;
 
 import java.util.Set;
 import java.util.TreeSet;

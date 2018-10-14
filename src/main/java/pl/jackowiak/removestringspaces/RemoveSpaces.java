@@ -1,4 +1,4 @@
-package pl.jackowiak.RemoveStringSpaces;
+package pl.jackowiak.removestringspaces;
 
 public class RemoveSpaces {
 
