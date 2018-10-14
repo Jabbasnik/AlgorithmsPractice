@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9faf605-8123-4492-b788-4d371e406e2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/FindSmallest/FindSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/FindSmallest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/Mumbling/Mumbling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/Mumbling/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/CountTheDigit/CountTheDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/CountTheDigit/README.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,14 +28,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="java" value="6" />
-          <entry key="md" value="3" />
+          <entry key="java" value="8" />
+          <entry key="md" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
-          <entry key="Markdown" value="3" />
+          <entry key="JAVA" value="8" />
+          <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -41,16 +43,16 @@
         <counts>
           <entry key="dummy" value="12" />
           <entry key="ft" value="6" />
-          <entry key="java" value="798" />
+          <entry key="java" value="1258" />
           <entry key="md" value="19" />
-          <entry key="txt" value="133" />
+          <entry key="txt" value="158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="798" />
+          <entry key="JAVA" value="1258" />
           <entry key="Markdown" value="19" />
-          <entry key="PLAIN_TEXT" value="145" />
+          <entry key="PLAIN_TEXT" value="170" />
           <entry key="VTL" value="6" />
         </counts>
       </usages-collector>
@@ -58,11 +60,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/jackowiak/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="315">
+              <caret line="21" column="70" selection-start-line="21" selection-start-column="70" selection-end-line="21" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,23 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/jackowiak/FindSmallest/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/jackowiak/FindSmallest/FindSmallest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/jackowiak/Mumbling/Mumbling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="210">
+              <caret line="14" column="63" lean-forward="true" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -124,7 +114,11 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/jackowiak/NumberOfPpl/NumberOfPpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/jackowiak/NumberOfPpl/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/pl/jackowiak/FindSmallest/FindSmallest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/jackowiak/CountTheDigit/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/jackowiak/CountTheDigit/CountTheDigit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/jackowiak/Mumbling/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/pl/jackowiak/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/jackowiak/Mumbling/Mumbling.java" />
       </list>
     </option>
   </component>
@@ -204,6 +198,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jackowiak" type="462c0819:PsiDirectoryNode" />
+              <item name="Mumbling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jackowiak" type="462c0819:PsiDirectoryNode" />
               <item name="RemoveStringSpaces" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -225,7 +228,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539523320713" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539525220509" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -233,6 +236,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/pl/jackowiak/Mumbling" />
+      <recent name="$PROJECT_DIR$/src/main/java/pl/jackowiak/CountTheDigit" />
       <recent name="$PROJECT_DIR$/src/main/java/pl/jackowiak/NumberOfPpl" />
       <recent name="$PROJECT_DIR$/src/main/java/pl/jackowiak/RemoveStringSpaces" />
     </key>
@@ -315,7 +320,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539510159229</updated>
-      <workItem from="1539510175409" duration="7274000" />
+      <workItem from="1539510175409" duration="9194000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit - TwoToOne algorithm">
       <created>1539511984856</created>
@@ -338,11 +343,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539513435643</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Count the digit kata">
+      <created>1539523362326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539523362326</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7274000" />
+    <option name="totallyTimeSpent" value="9194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="25" width="1871" height="1175" extended-state="6" />
@@ -395,7 +407,8 @@
     <MESSAGE value="Initial commit - TwoToOne algorithm" />
     <MESSAGE value="Completed TwoToOne Kata" />
     <MESSAGE value="Completed remove spaces kata" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed remove spaces kata" />
+    <MESSAGE value="Count the digit kata" />
+    <option name="LAST_COMMIT_MESSAGE" value="Count the digit kata" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -477,13 +490,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/jackowiak/CountTheDigit/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/jackowiak/CountTheDigit/CountTheDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/jackowiak/Mumbling/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="118" selection-start-line="10" selection-start-column="118" selection-end-line="10" selection-end-column="118" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/jackowiak/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="315">
+          <caret line="21" column="70" selection-start-line="21" selection-start-column="70" selection-end-line="21" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/jackowiak/Mumbling/Mumbling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="63" lean-forward="true" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
         </state>
       </provider>
     </entry>
