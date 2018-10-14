@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9faf605-8123-4492-b788-4d371e406e2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/expandnumber/ExpandNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/findsmallest/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/FindSmallest/FindSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/findsmallest/FindSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/FindSmallest/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/expandnumber/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/Isogram/Isogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/isogram/Isogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/Isogram/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/isogram/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/Mumbling/Mumbling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/mumbling/Mumbling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/Mumbling/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/mumbling/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/RemoveStringSpaces/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/removestringspaces/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/RemoveStringSpaces/RemoveSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/removestringspaces/RemoveSpaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/TwoToOne/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/twotoone/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/TwoToOne/TwoToOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/twotoone/TwoToOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/jackowiak/expandnumber/ExpandNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/jackowiak/expandnumber/ExpandNumber.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,16 +39,16 @@
         <counts>
           <entry key="dummy" value="12" />
           <entry key="ft" value="6" />
-          <entry key="java" value="2361" />
+          <entry key="java" value="2379" />
           <entry key="md" value="19" />
-          <entry key="txt" value="203" />
+          <entry key="txt" value="231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2361" />
+          <entry key="JAVA" value="2379" />
           <entry key="Markdown" value="19" />
-          <entry key="PLAIN_TEXT" value="215" />
+          <entry key="PLAIN_TEXT" value="243" />
           <entry key="VTL" value="6" />
         </counts>
       </usages-collector>
@@ -83,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/jackowiak/expandnumber/ExpandNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -241,7 +229,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539531306869" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539531721641" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -337,7 +325,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539510159229</updated>
-      <workItem from="1539510175409" duration="15130000" />
+      <workItem from="1539510175409" duration="15680000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit - TwoToOne algorithm">
       <created>1539511984856</created>
@@ -381,15 +369,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539526775547</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Completed expand number kata">
+      <created>1539531363673</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539531363673</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15130000" />
+    <option name="totallyTimeSpent" value="15680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="25" width="1871" height="1175" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -403,7 +397,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986301" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49972603" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49972603" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5008219" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Messages" weight="0.33039215" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -412,7 +406,7 @@
       <window_info anchor="bottom" id="Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49917808" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49917808" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -441,7 +435,8 @@
     <MESSAGE value="Count the digit kata" />
     <MESSAGE value="Mumbling kata completed" />
     <MESSAGE value="Isogram completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Isogram completed" />
+    <MESSAGE value="Completed expand number kata" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed expand number kata" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -599,8 +594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/jackowiak/expandnumber/ExpandNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

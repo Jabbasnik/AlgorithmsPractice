@@ -6,9 +6,7 @@ public class ExpandNumber {
         StringBuilder sb = new StringBuilder();
 
         char[] numberSize = String.valueOf(num).toCharArray();
-
         int counter = numberSize.length;
-
         for (int i = 0; i < numberSize.length; i++) {
 
             if (!String.valueOf(numberSize[i]).equals("0")) {
@@ -21,16 +19,12 @@ public class ExpandNumber {
                 if (counter != 0) {
                     sb.append(" + ");
                 }
-
-
             }
-
         }
 
         if (sb.toString().endsWith(" ")) {
             sb.delete(sb.length() - 3, sb.length());
         }
-
         return sb.toString();
     }
 
