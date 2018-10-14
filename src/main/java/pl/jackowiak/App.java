@@ -1,5 +1,6 @@
 package pl.jackowiak;
 
+import pl.jackowiak.Isogram.Isogram;
 import pl.jackowiak.Mumbling.Mumbling;
 import pl.jackowiak.RemoveStringSpaces.RemoveSpaces;
 import pl.jackowiak.TwoToOne.TwoToOne;
@@ -17,6 +18,8 @@ public class App {
         System.out.println("RemoveSpaces | " + RemoveSpaces.noSpace("asdas asd asd asda sd "));
 
         System.out.println("Mumbling | " + Mumbling.accum("HbideVbxncC"));
+
+        System.out.println("Isogram | " + Isogram.isIsogram("Abcd"));
 
     }
 }
