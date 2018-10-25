@@ -4,6 +4,7 @@ import pl.jackowiak.expandnumber.ExpandNumber;
 import pl.jackowiak.isogram.Isogram;
 import pl.jackowiak.mumbling.Mumbling;
 import pl.jackowiak.removestringspaces.RemoveSpaces;
+import pl.jackowiak.sollers.sollersSolution;
 import pl.jackowiak.twotoone.TwoToOne;
 
 /**
@@ -22,7 +23,12 @@ public class App {
 
         System.out.println("isogram | " + Isogram.isIsogram("Abcd"));
 
-        System.out.println("ExpandNumber | " + ExpandNumber.expandedForm(900000));
+        System.out.println("ExpandNumber | " + ExpandNumber.expandedForm(324234234));
+
+        sollersSolution sollersSolution = new sollersSolution();
+
+        System.out.println(sollersSolution.solution(10,1000));
+
 
     }
 }
