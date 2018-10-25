@@ -36,7 +36,7 @@ public class App {
 
         System.out.println("Give me a diamond | \n" + GivemeADiamond.print(7));
 
-        System.out.println("Mexican Wave | " + Arrays.toString(MexicanWave.wave(" Gap ,  gAp ,  gaP ")));
+        System.out.println("Mexican Wave | " + Arrays.toString(MexicanWave.wave( " gap ")));
 
 
     }
