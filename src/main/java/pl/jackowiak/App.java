@@ -4,10 +4,13 @@ import pl.jackowiak.expandnumber.ExpandNumber;
 import pl.jackowiak.giveMeADiamond.GivemeADiamond;
 import pl.jackowiak.isogram.Isogram;
 import pl.jackowiak.maximumSubarraySum.MaxSubarraySum;
+import pl.jackowiak.mexicanWave.MexicanWave;
 import pl.jackowiak.mumbling.Mumbling;
 import pl.jackowiak.removestringspaces.RemoveSpaces;
 import pl.jackowiak.tripleTrouble.TripleTrouble;
 import pl.jackowiak.twotoone.TwoToOne;
+
+import java.util.Arrays;
 
 /**
  * Practice repository
@@ -32,6 +35,9 @@ public class App {
         System.out.println("Triple problem | " + TripleTrouble.TripleDouble(451999277L, 41177722899L));
 
         System.out.println("Give me a diamond | \n" + GivemeADiamond.print(7));
+
+        System.out.println("Mexican Wave | " + Arrays.toString(MexicanWave.wave(" Gap ,  gAp ,  gaP ")));
+
 
     }
 }
