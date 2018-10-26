@@ -14,4 +14,17 @@ public class FindMissingLetter {
         answer = increment - 1;
         return (char) answer;
     }
+
+
+    public static char CLEVERfindMissingLetter(char[] array)
+    {
+        boolean stop = false;
+        int i;
+        for(i = 1; i < array.length && !stop; i++)
+        {
+            if (array[i] - array[i-1] != 1)
+                stop = true;
+        }
+        return (char) (array[i-1]-1);
+    }
 }
