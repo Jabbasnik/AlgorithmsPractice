@@ -1,6 +1,7 @@
 package pl.jackowiak;
 
 import pl.jackowiak.expandnumber.ExpandNumber;
+import pl.jackowiak.findMissingLetter.FindMissingLetter;
 import pl.jackowiak.giveMeADiamond.GivemeADiamond;
 import pl.jackowiak.isogram.Isogram;
 import pl.jackowiak.maximumSubarraySum.MaxSubarraySum;
@@ -36,8 +37,9 @@ public class App {
 
         System.out.println("Give me a diamond | \n" + GivemeADiamond.print(7));
 
-        System.out.println("Mexican Wave | " + Arrays.toString(MexicanWave.wave( " gap ")));
+        System.out.println("Mexican Wave | " + Arrays.toString(MexicanWave.wave( "hello")));
 
+        System.out.println("Missing Letter | " + FindMissingLetter.findMissingLetter(new char[] {'a', 'b', 'c', 'd', 'f' }));
 
     }
 }
