@@ -3,7 +3,6 @@ package pl.jackowiak.findMissingLetter;
 public class FindMissingLetter {
 
     public static char findMissingLetter(char[] array) {
-
         int increment = array[0];
         int answer;
         for (Character ch : array) {
@@ -12,8 +11,7 @@ public class FindMissingLetter {
                 break;
             }
         }
-
-
-        return (char) increment;
+        answer = increment - 1;
+        return (char) answer;
     }
 }

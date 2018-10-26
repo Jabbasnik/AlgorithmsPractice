@@ -37,9 +37,9 @@ public class App {
 
         System.out.println("Give me a diamond | \n" + GivemeADiamond.print(7));
 
-        System.out.println("Mexican Wave | " + Arrays.toString(MexicanWave.wave( "hello")));
+        System.out.println("Mexican Wave | " + Arrays.toString(MexicanWave.wave("hello")));
 
-        System.out.println("Missing Letter | " + FindMissingLetter.findMissingLetter(new char[] {'a', 'b', 'c', 'd', 'f' }));
+        System.out.println("Missing Letter | " + FindMissingLetter.findMissingLetter(new char[]{'O', 'Q', 'R', 'S'}));
 
     }
 }
